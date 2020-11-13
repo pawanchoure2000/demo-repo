@@ -8,3 +8,4 @@ defining how a text can be formatted such as indentations, table formatting, fon
 MD files can be converted to HTML with a program called Markdown.
 
 
+WITH EDIT OPTION ADDED THIS LINE
